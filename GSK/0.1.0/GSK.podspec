@@ -28,7 +28,7 @@ s.framework = "UIKit"
 s.dependency 'Alamofire', '~> 4.7'
 
 # 8
-s.source_files = "GSK/**/*.{swift}"
+s.source_files = "GSK/GSK/*.{swift}"
 
 # 9
 #s.resources = "GSK/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
